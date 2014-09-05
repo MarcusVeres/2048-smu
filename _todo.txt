@@ -1,0 +1,28 @@
+collision detection engine
+    √   enemy to projectile
+        enemy to player
+
+√   enemies spawn continuosly
+
+√   multiple simultaneous keypresses
+    √   currently, firing interrupts the keydown ship movement
+
+score on ship updates and increases with each enemy killed?
+
+enemies shoot projectiles
+        hitTest enemy projectile to player
+        game over condition
+
+perhaps a more organized enemy spawning?
+        canvas width / grid size * randomNumber(grid_size)
+
+enemy hit points
+        bullet damage taken into consideration
+        enemies flash when hit?
+
+spawn power-ups on enemy kill
+        collision detect player and power ups
+        apply bonuses to the player on power up
+        number on the player rises
+
+
